@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hruday Tej and I'm a Back-End & DevOps Engineer, Pursuing my Masters @ <img src="https://i.pinimg.com/736x/af/de/cc/afdecc09fd80bf31db6cfc09fd4fdb64.jpg" height="30" alt="python logo"  /></h2>
+<h2 align="left">Hi 👋! My name is Hruday Tej and I'm a Back-End & DevOps Engineer, Pursuing my Masters @ <img src="https://i.pinimg.com/736x/af/de/cc/afdecc09fd80bf31db6cfc09fd4fdb64.jpg" height="100" alt="python logo"  /></h2>
 
 ###
 
