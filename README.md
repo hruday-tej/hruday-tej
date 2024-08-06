@@ -1,4 +1,11 @@
-<h2 align="left">Hi 👋! My name is Hruday Tej and I'm a Back-End & DevOps Engineer, Pursuing my Masters @ <img src="https://i.pinimg.com/736x/af/de/cc/afdecc09fd80bf31db6cfc09fd4fdb64.jpg" height="100" alt="python logo"  /></h2>
+<h2 align="center">Hi 👋! My name is Hruday Tej </h2>
+<p align="center">
+I'm a Back-End & DevOps Engineer, pursuing my Masters at 
+<!--<b>University of Florida</b> -->
+
+<img style="height:55px; vertical-align:middle;margin-bottom:5px" src="https://1000logos.net/wp-content/uploads/2022/07/University-of-Florida-Logo.png" />
+</p>
+
 
 ###
 
@@ -13,7 +20,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -61,7 +68,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://linkedin.com/in/hruday-tej" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -75,8 +82,8 @@
 <div id="header" align="center">
 <img src="https://api.visitorbadge.io/api/VisitorHit?user=hruday-tej&repo=github-visitors-badge&countColor=%237B1E7A" /></div>
 
-<br clear="both">
+<!--<br clear="both">-->
 
-<img src="https://raw.githubusercontent.com/hruday-tej/hruday-tej/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/hruday-tej/hruday-tej/output/snake.svg" alt="Snake animation" />-->
 
 ###
