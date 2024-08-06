@@ -3,7 +3,7 @@
 I'm a Back-End & DevOps Engineer, pursuing my Masters at 
 <!--<b>University of Florida</b> -->
 
-<img style="height:55px; vertical-align:middle;margin-bottom:5px" src="https://1000logos.net/wp-content/uploads/2022/07/University-of-Florida-Logo.png" />
+<img style="height:55px; vertical-align:middle;margin-bottom:auto;margin-top:auto" src="https://1000logos.net/wp-content/uploads/2022/07/University-of-Florida-Logo.png" />
 </p>
 
 
