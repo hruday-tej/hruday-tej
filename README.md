@@ -1,10 +1,8 @@
 <h2 align="center">Hi 👋! My name is Hruday Tej </h2>
-<p align="center">
-I'm a Back-End & DevOps Engineer, pursuing my Masters at 
-<!--<b>University of Florida</b> -->
-
-<img style="height:55px; vertical-align:middle;margin-bottom:auto;margin-top:auto" src="https://1000logos.net/wp-content/uploads/2022/07/University-of-Florida-Logo.png" />
-</p>
+<div style="display: flex; align-items: center; justify-content: center; text-align: center; flex-direction: column;">
+<p>I'm a Back-End & DevOps Engineer, pursuing my Masters at</p>
+<img src="https://1000logos.net/wp-content/uploads/2022/07/University-of-Florida-Logo.png" style="height: 55px;" alt="University of Florida Logo">
+</div>
 
 
 ###
