@@ -8,15 +8,6 @@
   </p>
 </div>
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hruday-tej&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=hruday-tej&locale=en&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
-</div>
-
----
-
 <img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzh3bmxmOHIwZGxhdTZvcTQ2bTlndnljcW50NDJjcmpncWJyYWJvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.webp" alt="Fun GIF" />
 
 ### Tech Stack:
